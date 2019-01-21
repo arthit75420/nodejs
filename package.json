@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/arthit75420/nodejs#readme",
   "dependencies": {
-    "mongodb": "^3.1.12"
+    "gyp": "^0.5.0",
+    "mongodb": "^3.1.12",
+    "mosca": "^2.8.3"
   }
 }
